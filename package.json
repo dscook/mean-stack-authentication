@@ -1,0 +1,20 @@
+{
+  "name": "mean-stack-express",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "1.14.1",
+    "cookie-parser": "1.4.0",
+    "express": "4.9.7",
+    "express-session": "1.12.1",
+    "passport": "0.3.0",
+    "passport-local": "1.0.0"
+  },
+  "description": "MEAN stack express demo",
+  "main": "server.js",
+  "keywords": [
+    "MEAN",
+    "express",
+    "demo"
+  ],
+  "author": "Daniel Cook <daniel.cook@obrussa.com>"
+}
